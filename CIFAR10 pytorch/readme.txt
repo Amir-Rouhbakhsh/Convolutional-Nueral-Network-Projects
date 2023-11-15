@@ -1,0 +1,1 @@
+using pytorch to train a CNN with an optional architecture through CIFAR10 dataset 
